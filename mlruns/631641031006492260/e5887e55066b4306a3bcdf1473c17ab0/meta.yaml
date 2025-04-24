@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/631641031006492260/e5887e55066b4306a3bcdf1473c17ab0/artifacts
+end_time: 1745515586034
+entry_point_name: ''
+experiment_id: '631641031006492260'
+lifecycle_stage: active
+run_id: e5887e55066b4306a3bcdf1473c17ab0
+run_name: XGBRegressor
+run_uuid: e5887e55066b4306a3bcdf1473c17ab0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745515585996
+status: 3
+tags: []
+user_id: mayal

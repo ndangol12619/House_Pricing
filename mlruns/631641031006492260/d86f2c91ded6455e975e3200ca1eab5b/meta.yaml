@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/631641031006492260/d86f2c91ded6455e975e3200ca1eab5b/artifacts
+end_time: 1745515585682
+entry_point_name: ''
+experiment_id: '631641031006492260'
+lifecycle_stage: active
+run_id: d86f2c91ded6455e975e3200ca1eab5b
+run_name: DecisionTreeRegressor
+run_uuid: d86f2c91ded6455e975e3200ca1eab5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745515585660
+status: 3
+tags: []
+user_id: mayal
